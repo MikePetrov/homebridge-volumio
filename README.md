@@ -1,6 +1,6 @@
-# "homebridge-volumio" Plugin
+# Плагин "homebridge-volumio"
 
-With this plugin you can create HomeKit speaker services for Volumio.
+Плагин для создания объекта Volumio HomeKit в приложении "ДОМ".
 
 ## Compatibility notice
 Speakers were introduced within the HomeKit protocol in iOS 10. However the Home App from Apple doesn't support
@@ -9,7 +9,7 @@ HomeKit apps (I like the Example of [Eve App](https://itunes.apple.com/app/elgat
 speakers. I'm guessing that speaker support will be included in the final iOS 11 release build or within the release of
 the HomePod.
 
-## Installation
+## Установка
 First of all you should already have installed `Homebridge` on your device. Follow the instructions over at the
 [HomeBridge Repo](https://github.com/nfarina/homebridge)
 
